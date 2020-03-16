@@ -1,11 +1,11 @@
 # Site settings
 author: Whitney Hodgkins
-title: 
+title: Why Isn't This Working
 header-img: img/home-bg.png
 email: hodgkins.whitney@gmail.com
 copyright_name: Whitney Hodgkins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Creative Pursuit
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rogue-hippie
